@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá, eu sou o Cauardbs!
 
-<!--
-**Cauardbs/cauardbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje estudando desenvolvimento Front-End
+- 🌱 Estudando React
+- 👯 Contate-me no email: cauardbs3@gmail.com
+- 🤔 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=cauardbs&show_icons=true&theme=dark&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=cauardbs&layout=compact&theme=dark">
+</div>
+
+🧰 Toolbox
+  <ul>
+      <li>Front-End with ReactJS</li>
+  </ul>
+  <div>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+  </div>
+
+
+ 
