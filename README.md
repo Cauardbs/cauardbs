@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estudando Análise e Desenvolvimento de Sistemas.
 - 🌱 Instituição de ensino: FIAP
-- 👯 Contate-me no email: cauardbs3@gmail.com
+- 👯 Contate-me no email: cauardbs@gmail.com
 - 🤔 Pronomes: Ele/Dele
 
 
